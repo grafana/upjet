@@ -287,3 +287,4 @@ type VPCStatus struct {
 - Schema-driven generation (no manual type definitions)
 - Interface-based design for extensibility (`resource.Terraformed`, `controller.ExternalClient`)
 - Kubernetes-native patterns via crossplane-runtime
+- Security issues should be reported via [Grafana's security issue reporting page](https://grafana.com/legal/report-a-security-issue/) and not directly in this repository.
